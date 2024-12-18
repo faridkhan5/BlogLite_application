@@ -1,7 +1,7 @@
 # BlogLite_application
 
 ## About
-Blog Lite is a lightweight blogging platform designed for seamless content creation and social interaction. It allows users to write blogs, follow other users, and receive daily reminders. 
+This project is a lightweight blogging platform designed for seamless content creation and social interaction. It allows users to write blogs, search other users, follow other users, and receive daily reminders.
 
 ## Features
 * JWT-Based Authentication: Secure login and session management using JSON Web Tokens.
