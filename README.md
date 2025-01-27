@@ -1,7 +1,8 @@
 # Blog Lite Application
-![bloglite img](bloglite_website_img.png)
 ## About
 This project is a lightweight blogging platform designed for seamless content creation and social interaction. It allows users to write blogs, search other users, follow other users, and receive daily reminders.
+
+![bloglite img](bloglite_website_img.png)
 
 ## Features
 * JWT-Based Authentication: Secure login and session management using JSON Web Tokens.
